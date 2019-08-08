@@ -5,7 +5,7 @@ The Sitemap is very important to Google. We will create an XML (Extensible Marku
 
 ## Set up the route located in: <project root directory>/application/config/routes.php
 ```
-  $route['default_controller'] = 'main';
+$route['default_controller'] = 'main';
 $route['404_override'] = 'pagenotfound';
 $route['translate_uri_dashes'] = FALSE;
 
