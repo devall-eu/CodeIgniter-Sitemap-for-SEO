@@ -11,3 +11,5 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['sitemap\.xml'] = "Sitemap/index";
 ```
+
+Visit on page: https://dev-all.eu/blog/codeigniter-sitemap-for-seo
